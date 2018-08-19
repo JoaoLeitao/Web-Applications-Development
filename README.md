@@ -3,4 +3,4 @@ Curricular Unit Web Applications Development which provides knowledge in the dev
 
 The application YACMS was built using [Create React App](https://github.com/facebook/create-react-app) and [Ant Design](https://ant.design/).
 
-For more information about the YACMS please read the [wiki]().
+For more information about the YACMS please read the [wiki](https://github.com/JoaoLeitao/Web-Applications-Development/wiki).
