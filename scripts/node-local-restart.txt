@@ -1,0 +1,2 @@
+sudo cp api.jar /var/spring
+sudo systemctl restart spring

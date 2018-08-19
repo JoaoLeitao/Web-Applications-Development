@@ -1,0 +1,4 @@
+gcloud compute scp spring.service api-node1:spring.service
+gcloud compute scp spring.service api-node2:spring.service
+gcloud compute scp build/libs/dawProject-0.0.1-SNAPSHOT.jar api-node1:api.jar
+gcloud compute scp build/libs/dawProject-0.0.1-SNAPSHOT.jar api-node2:api.jar

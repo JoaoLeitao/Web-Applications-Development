@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 10s;
+  height: 400px;
+  margin-top: 50px;
+}
+
+.App-header {
+  background-color: gray;
+  height: 200px;
+  padding: 50px;
+  color: white;
+}
+
+.App-title {
+  font-size: 5.0em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-footer {
+  margin-top: 100px;
+}
+
+.register {
+  margin-top: 50px;
+  display: inline-block;
+  text-align: center;
+  width: 400px
+}
+
+.navbar {
+  background-color: lightgray;
+}
+
+.navbar_login {
+  float: right;
+}
+
+.navbar_logout {
+  float: right;
+}
+
+.navbar_templates {
+  float: left;
+}
+
+.navbar_checklists {
+  float: left;
+}
+
+.list-item {
+  margin-top: 15px;
+}
+
+.item-card {
+  margin: 0 auto;
+  margin-top: 75px;
+}
+
+.checklists-templates-buttons-div {
+  margin-top: 15px;
+}
+
+.list-item {
+  text-align: center;
+}
+
+.error-view {
+  margin-top: 200px;
+  display: inline-block;
+  width: 500px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

@@ -1,0 +1,2 @@
+gcloud compute scp build/libs/dawProject-0.0.1-SNAPSHOT.jar api-node1:api.jar
+gcloud compute scp build/libs/dawProject-0.0.1-SNAPSHOT.jar api-node2:api.jar
